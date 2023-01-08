@@ -1,3 +1,5 @@
+// Copyright 2023 W³odzimierz Iwanowski. All Rights Reserved.
+
 #include "DeeplPlugin.h"
 
 #define LOCTEXT_NAMESPACE "FDeeplPluginModule"
